@@ -133,7 +133,9 @@ customs-data-analysis-project/
 │   └── HS Codes.csv
 │   └── Time Tracking.csv
 └── Full_Report/
-    └── Full_Insights_Report.pdf       
+    └── Customs_Report.pdf
+└── Insights Report/
+    └── Full_Insights_Report.pdf     
 ```
 
 ---
