@@ -124,22 +124,16 @@ TOTALYTD(
 ```
 customs-data-analysis-project/
 │
-├── README.md                          ← This file
+├── README.md                         
 ├── data/
-│   └── shipments_synthetic.csv        ← Synthetic dataset (anonymised)
-├── dashboards/
-│   └── screenshots/                   ← Dashboard page screenshots
-│       ├── 01_executive_summary.png
-│       ├── 02_shipment_analysis.png
-│       ├── 03_time_performance.png
-│       ├── 04_hs_classification.png
-│       ├── 05_duty_analysis.png
-│       ├── 06_geographic.png
-│       └── 07_carrier_performance.png
-├── dax/
-│   └── measures.md                    ← Full DAX measures documentation
-└── docs/
-    └── Full_Insights_Report.pdf       ← Complete performance & insights report
+│   └── Shipments.csv
+│   └── Calendar.csv
+│   └── Clients.csv
+│   └── Duties.csv
+│   └── HS Codes.csv
+│   └── Time Tracking.csv
+└── Full_Report/
+    └── Full_Insights_Report.pdf       
 ```
 
 ---
